@@ -310,6 +310,7 @@ module Stupidedi
               "A"  => "Air",
               "H"  => "Customer Pickup",
               "J"  => "Motor",
+              "L"  => "Contract Carrier",
               "M"  => "Motor (Common Carrier)",
               "R"  => "Rail",
               "S"  => "Ocean",
